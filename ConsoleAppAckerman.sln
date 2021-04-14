@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAckerman", "ConsoleAppAckerman.csproj", "{357EF2CF-FDFC-4D78-8AB6-43499FA2ED78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357EF2CF-FDFC-4D78-8AB6-43499FA2ED78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357EF2CF-FDFC-4D78-8AB6-43499FA2ED78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357EF2CF-FDFC-4D78-8AB6-43499FA2ED78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357EF2CF-FDFC-4D78-8AB6-43499FA2ED78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DEA334F-7EDD-41C3-AC34-4F05E15D3353}
+	EndGlobalSection
+EndGlobal
